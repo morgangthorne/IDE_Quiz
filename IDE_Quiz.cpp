@@ -17,5 +17,6 @@ int main()
     //Displays initials
     cout << first << middle << last << endl;
     
+   //Returns 0
     return 0;
 }
